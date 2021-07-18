@@ -1,7 +1,7 @@
-# Yukki Spam Bot ( Modified Version Of Catuserbot )
+# MAHADEV X SPAM BOT ( Modified Version Of TANDAV X USERBOT )
 
 <p align="center">
-  <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
+  <img src="">
 </p>
 
 ## 🚀 Deploy on Heroku 
@@ -15,9 +15,9 @@ No Requirement of API ID and API HASH
 
 ## 🚀 Self Deploy
 ```sh
-$ git clone https://github.com/YukkiBot/YukkiSpamBot
+$ git clone https://github.com/SRIDHAR2021SIDDHARTH/MAHADEV-X-SPAM-BOTS
 
-$ cd YukkiSpamBot
+$ cd tandavspambot
 
 $ pip3 install -U -r requirements.txt
 
@@ -31,7 +31,4 @@ $ python3 -m userbot
 
 ```  
 ## Support Group
-   - Join [Yukki Support Group](https://t.me/officialyukki) for any assistance.
-## Credits
-   - Special credits to [Cat Userbot](https://github.com/sandy1709/catuserbot).
-   - Thanks to [Yukki Team](https://t.me/officialyukki).
+   - Join [mahadev x spam bot  Support Group](https://t.me/MAHADEV_X_SPAM_BOT) for any assistance.
