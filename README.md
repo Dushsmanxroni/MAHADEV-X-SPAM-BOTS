@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/SRIDHAR2021SIDDHARTH/MAHADEV-X-SPAM-BOTS)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/SRIDHAR2021SIDDHARTH/MAHADEV-X-SPAM-BOT)
 
 ## String Session
 No Requirement of API ID and API HASH
